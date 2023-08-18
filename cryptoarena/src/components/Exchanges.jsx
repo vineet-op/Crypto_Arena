@@ -31,7 +31,8 @@ const Exchanges = () => {
     fetchExchanges();
   }, []);
 
-  if (error) return <ErrorComponent />;
+  if (error)
+    return <ErrorComponent message={"error while fetching exchanges"} />;
 
   return (
     <Container maxW={"container.xl"}>
@@ -39,7 +40,7 @@ const Exchanges = () => {
         <Loader />
       ) : (
         <>
-          <HStack wrap={"wrap"}>
+          <HStack wrap={"wrap"} justifyContent={"space-evenly"}>
             {exchanges.map((i) => (
               <ExchangeCard
                 key={i.id}
