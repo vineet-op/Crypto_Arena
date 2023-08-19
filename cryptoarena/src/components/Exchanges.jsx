@@ -82,7 +82,7 @@ const ExchangeCard = ({ name, img, rank, url }) => {
         />
 
         <Heading size={"md"} noOfLines={1}>
-          {rank}
+          Rank {rank}
         </Heading>
 
         <Text>{name}</Text>
