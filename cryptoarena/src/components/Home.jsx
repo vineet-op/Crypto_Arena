@@ -1,9 +1,7 @@
 import { Box, Image, Text } from "@chakra-ui/react";
 import React from "react";
 import { motion } from "framer-motion";
-
-const image =
-  "https://academy.education.investing.com/wp-content/uploads/2022/03/bitcoin-what-is-crypto-scaled.jpg";
+import btcSrc from "../assets/btc.png";
 
 const Home = () => {
   return (
@@ -25,10 +23,8 @@ const Home = () => {
           w={"full"}
           h={"full"}
           objectFit={"contain"}
-          src={image}
+          src={btcSrc}
           filter={"grayscale(1)"}
-          mix-blendMode={"multiply"}
-          // color={"blackAlpha.900"}
         />
       </motion.div>
 
@@ -37,7 +33,7 @@ const Home = () => {
         textAlign={"center"}
         fontWeight={"thin"}
         color={"whiteAlpha.700"}
-        mt={"-20"}
+        mt={"-10"}
       >
         Crypto Arena
       </Text>
