@@ -22,13 +22,17 @@ Crypto Arena is a React.js application built with Chakra UI and Chart.js that pr
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot (1)](https://github.com/vineet-op/Crypto_Arena/assets/103635529/8f1473f6-8c60-4e28-966e-18b33b5617c2)
+> Homepage of application.
+
+![Screenshot (30)](https://github.com/vineet-op/Crypto_Arena/assets/103635529/5f71950e-0c5e-430a-9547-fcc949efe4e4)
 > Explore real-time cryptocurrency exchange information.
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2]![Screenshot (31)](https://github.com/vineet-op/Crypto_Arena/assets/103635529/eb72b274-3f3b-40e4-965a-33fab1085816)
 > Get detailed insights about top cryptocurrencies and their performance graphs.
 
-Feel free to customize the content above as needed to accurately reflect your project's details. Make sure to replace `[repository_link]` with the actual link to your GitHub repository. Let me know if there's anything else I can help you with!
+![Screenshot (32)](https://github.com/vineet-op/Crypto_Arena/assets/103635529/c0233736-844d-4f52-9f35-b44f1682d6b5)
+
 
 # Crypto_Arena Deployement Link
 https://mycryptoarena.netlify.app/
