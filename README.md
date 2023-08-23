@@ -12,7 +12,7 @@ Crypto Arena is a React.js application built with Chakra UI and Chart.js that pr
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/vineet-op/Crypto_Arena`
-2. Navigate to the project directory: `cd crypto-arena`
+2. Navigate to the project directory: `cd cryptoarena`
 3. Install dependencies: `npm install`
 
 ## Usage
